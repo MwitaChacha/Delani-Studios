@@ -75,6 +75,7 @@ h5 {
     width: 15%;
 }
 
+/* Portfolio section and icons*/
 .portfolio-section {
     text-align: center;
     margin-bottom: 100px;
@@ -93,6 +94,7 @@ h5 {
     padding: 0.5rem;
 }
 
+/*Forms*/
 .form-section {
     background-image: url(assets/backgrounds/c_image.jpg);
     background-position: center;
@@ -103,8 +105,8 @@ h5 {
 }
 
 .information-input {
-  width: 70%;
-  margin: auto;
+    width: 70%;
+    margin: auto;
 }
 
 .details {
