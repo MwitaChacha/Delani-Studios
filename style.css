@@ -1,3 +1,4 @@
+/*Whole body */
 body {
     background-color: #EEEEEE;
     margin: 0;
@@ -5,6 +6,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+/* Introduction section */
 .intro {
     background-image: url(assets/backgrounds/h_img.jpg);
     background-size: cover;
